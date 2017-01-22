@@ -1,0 +1,20 @@
+﻿Сборка начата 31.10.2016 14:25:41.
+     1>Проект "D:\С++_дз\2 курс\лабораторні\лаб.1\lab_1(6_variant)\lab_1(6_variant)\lab_1(6_variant).vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib "Исходный код.cpp"
+         Исходный код.cpp
+     1>Исходный код.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>Исходный код.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>Исходный код.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>Исходный код.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>Исходный код.cpp(23): warning C4101: i: неиспользованная локальная переменная
+     1>Исходный код.cpp(23): warning C4101: j: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\С++_дз\2 курс\лабораторні\лаб.1\lab_1(6_variant)\Debug\lab_1(6_variant).exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\С++_дз\2 курс\лабораторні\лаб.1\lab_1(6_variant)\Debug\lab_1(6_variant).pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 "Debug\Исходный код.obj"
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         lab_1(6_variant).vcxproj -> D:\С++_дз\2 курс\лабораторні\лаб.1\lab_1(6_variant)\Debug\lab_1(6_variant).exe
+     1>Сборка проекта "D:\С++_дз\2 курс\лабораторні\лаб.1\lab_1(6_variant)\lab_1(6_variant)\lab_1(6_variant).vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.22

@@ -1,0 +1,1 @@
+void  elipce(int a, int b, int *X, int *Y, int col);
